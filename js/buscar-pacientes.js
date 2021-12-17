@@ -1,4 +1,4 @@
-//add evento de clique para fazer busca ao clicra no botão
+//add evento de clique para fazer busca ao clicar no botão
 //Buscar pacientes em uma API externa -- AJAX (requisição assíncrona com JS)
 var botaoAdicionar = document.querySelector("#buscar-pacientes");
 
